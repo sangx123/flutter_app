@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sangxiang/Downloads/flutter-go-master/build/flutter_webview_plugin/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sangxiang/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/78fa89d1f3f7105ab80748d493fa7692/res/anim/abc_slide_in_bottom.xml"
+    }
+]
