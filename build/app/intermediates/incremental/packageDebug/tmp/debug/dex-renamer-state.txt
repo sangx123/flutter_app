@@ -1,4 +1,0 @@
-#Fri Dec 13 12:00:34 CST 2019
-base.0=/Users/sangxiang/Downloads/flutter-go-master/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
